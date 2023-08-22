@@ -1,0 +1,9 @@
+gunicorn
+python
+nltk
+string
+pandas
+numpy
+scikit-learn
+pickle
+streamlit
