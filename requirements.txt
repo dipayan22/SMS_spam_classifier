@@ -1,5 +1,4 @@
 gunicorn
-python
 nltk
 string
 pandas
